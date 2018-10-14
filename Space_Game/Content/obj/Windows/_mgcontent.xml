@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/spaceShip.png</File>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/star.png</File>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/chaseAlien.png</File>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/Title.spritefont</File>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/rocket.png</File>
+    <File>C:/Users/samma/Desktop/Space_Game/Space_Game/Content/planet.png</File>
+  </SourceFiles>
+</SourceFileCollection>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space_Game", "Space_Game\Space_Game.csproj", "{94D93722-43E5-4B62-8301-BF915ACB6CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D93722-43E5-4B62-8301-BF915ACB6CC7}.Debug|x86.ActiveCfg = Debug|x86
+		{94D93722-43E5-4B62-8301-BF915ACB6CC7}.Debug|x86.Build.0 = Debug|x86
+		{94D93722-43E5-4B62-8301-BF915ACB6CC7}.Release|x86.ActiveCfg = Release|x86
+		{94D93722-43E5-4B62-8301-BF915ACB6CC7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF77A9A-7C82-4D2F-91D3-94C05961DEBD}
+	EndGlobalSection
+EndGlobal
